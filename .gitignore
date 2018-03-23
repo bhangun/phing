@@ -13,3 +13,4 @@ bin/*
 .vagrant
 **/*.log
 ansible/playbook.retry
+composer.lock
